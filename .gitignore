@@ -1,0 +1,8 @@
+dist/*
+.hbuilderx/
+unpackage/dist/dev/app-plus/app-config-service.js
+unpackage/dist/dev/app-plus/app-service.js
+unpackage/dist/dev/app-plus/app-view.js
+unpackage/dist/dev/app-plus/manifest.json
+.hbuilderx/
+unpackage/

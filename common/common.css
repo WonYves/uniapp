@@ -1,0 +1,175 @@
+/* 公共样式表 */
+page{
+	/* height: 100%; */
+	min-height: 100vh;
+	font-size: 28rpx;
+	/* line-height: 1.8; */
+}
+image{
+	width: 100%;
+	height: 100%;
+}
+body, html {
+    overflow-x: hidden;
+}
+
+/* 布局调整 */
+*{
+	/* border:1px solid red; */
+    /* outline: solid #f00 1px !important; */
+    /* background: #000 !important;
+    /* color: #fff !important; */
+}
+
+/* 控制hover */
+.opctiy_8{
+	opacity: 0.8 !important;
+}
+.opctiy_7{
+	opacity: 0.7 !important;
+}
+.opctiy_6{
+	opacity: 0.6 !important;
+}
+.opctiy_5{
+	opacity: 0.5 !important;
+}
+.opctiy_4{
+	opacity: 0.4 !important;
+}
+.opctiy_3{
+	opacity: 0.3 !important;
+}
+.opctiy_2{
+	opacity: 0.2 !important;
+}
+.opctiy_1{
+	opacity: 0.1 !important;
+}
+
+/* 控制文字大小 */
+.fs_10{
+	font-size: 20rpx !important;
+}
+.fs_12{
+	font-size: 24rpx !important;
+}
+.fs_14{
+	font-size: 28rpx !important;
+}
+.fs_16{
+	font-size: 32rpx !important;
+}
+.fs_18{
+	font-size: 36rpx !important;
+}
+.fs_20{
+	font-size: 40rpx !important;
+}
+.fs_22{
+	font-size: 44rpx !important;
+}
+.fs_24{
+	font-size: 48rpx !important;
+}
+.fs_26{
+	font-size: 52rpx !important;
+}
+.fs_28{
+	font-size: 56rpx !important;
+}
+.fs_30{
+	font-size: 60rpx !important;
+}
+.fs_32{
+	font-size: 64rpx !important;
+}
+
+/* 控制字体粗细 */
+.fw_blod{
+	font-weight: bold;
+}
+
+/* 控制字体颜色 */
+.color_D16B3F{
+	color: #D16B3F !important;
+}
+.color_C7331D{
+	color: #C7331D !important;
+}
+.color_666666{
+	color: #666666 !important;
+}
+.color_F8A52F{
+	color: #F8A52F !important;
+}
+.color_999999{
+	color: #999999 !important;
+}
+.color_C7331D{
+	color: #C7331D !important;
+}
+.color_333333{
+	color: #333333 !important;
+}
+.color_FFFFFF{
+	color: #FFFFFF !important;
+}
+.color_E7612E{
+	color: #E7612E !important;
+}
+.color_EF4B37{
+	color: #EF4B37 !important;
+}
+.color_5F5F5F{
+	color: #5F5F5F !important;
+}
+.color_FB7307{
+	color: #FB7307 !important;
+}
+
+/* 控制左右距离 */
+.mar_le30{
+	margin-left: 60rpx;
+}
+.mar_le25{
+	margin-left: 50rpx;
+}
+.mar_le20{
+	margin-left: 40rpx;
+}
+.mar_le15{
+	margin-left: 30rpx;
+}
+.mar_le10{
+	margin-left: 20rpx;
+}
+.mar_le5{
+	margin-left: 10rpx;
+}
+
+.mar_ri5{
+	margin-right: 10rpx;
+}
+.mar_ri10{
+	margin-right: 20rpx;
+}
+.mar_ri15{
+	margin-right: 30rpx;
+}
+.mar_ri20{
+	margin-right: 40rpx;
+}
+.mar_ri25{
+	margin-right: 50rpx;
+}
+
+/* 控制字体粗细  */
+.fw_blod{
+	font-weight: bold !important;
+}
+
+/* 控制背景色 */
+.bg_e8{
+	background-color: #e8e8e8 !important;
+}
